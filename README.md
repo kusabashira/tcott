@@ -11,4 +11,4 @@ MIT License
 Author
 ------
 
-kusabashira <kusabashira227@gmail.com>
+nil2 <kusabashira227@gmail.com>
